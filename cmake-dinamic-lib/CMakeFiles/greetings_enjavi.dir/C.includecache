@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zorot/Desktop/linux-system-programmign/cmake-dinamic-lib/src/greetings_en.c
+greetings_en.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-dinamic-lib/src/greetings_en.h
+stdio.h
+-
+
+/Users/zorot/Desktop/linux-system-programmign/cmake-dinamic-lib/src/greetings_ja.c
+greetings_ja.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-dinamic-lib/src/greetings_ja.h
+stdio.h
+-
+
+/Users/zorot/Desktop/linux-system-programmign/cmake-dinamic-lib/src/greetings_vi.c
+stdio.h
+-
+greetings_vi.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-dinamic-lib/src/greetings_vi.h
+
+include/greetings_en.h
+
+include/greetings_ja.h
+
+include/greetings_vi.h
+

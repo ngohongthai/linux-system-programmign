@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgreetings_enjavi.a CMakeFiles/greetings_enjavi.dir/src/greetings_en.c.o CMakeFiles/greetings_enjavi.dir/src/greetings_ja.c.o CMakeFiles/greetings_enjavi.dir/src/greetings_vi.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgreetings_enjavi.a

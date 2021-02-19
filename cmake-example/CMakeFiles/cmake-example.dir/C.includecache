@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/greetings_es.c
+greetings_es.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/greetings_es.h
+stdio.h
+-
+
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/mainapp.c
+stdio.h
+-
+greetings_en.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/greetings_en.h
+greetings_ja.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/greetings_ja.h
+greetings_vi.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/greetings_vi.h
+greetings_es.h
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/src/greetings_es.h
+
+include/greetings_en.h
+
+include/greetings_es.h
+
+include/greetings_ja.h
+
+include/greetings_vi.h
+

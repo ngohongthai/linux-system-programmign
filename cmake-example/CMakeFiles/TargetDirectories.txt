@@ -1,0 +1,3 @@
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/CMakeFiles/rebuild_cache.dir
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/CMakeFiles/edit_cache.dir
+/Users/zorot/Desktop/linux-system-programmign/cmake-example/CMakeFiles/cmake-example.dir
